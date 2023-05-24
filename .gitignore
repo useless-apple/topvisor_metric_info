@@ -1,0 +1,7 @@
+/.env
+/venv/
+/result_*
+/build/
+/main.spec
+/.idea
+.idea
